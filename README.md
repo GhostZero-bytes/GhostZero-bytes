@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-My name is Joshua Mahurin
-
-I'm an IT student and aspiring system administrator focused on building, hardening, and automating local infrastructure. My main areas of practice include enterprise networking, virtualization, and directory services.
+IT student building and documenting SOHO networks, servers, and network security. I focus on virtualization and directory services.
 
 Current Tech Stack & Lab Environment:
 
@@ -14,7 +12,7 @@ Directory Services & OS: Windows Server (Active Directory, DNS, DHCP)
 
 Tools: PowerShell, PuTTY, Git/GitHub
 
-### When I'm Not in the Lab ☕
+### When I'm Not in the Lab 🎧
 - 🐶 I have two dogs
 - 🎬 I love to watch movies and TV shows
 - 🎵 I love to listen to music
