@@ -8,7 +8,7 @@ Current Tech Stack & Lab Environment:
 
 Hypervisors & Virtualization: Proxmox VE
 
-Networking & Security: pfSense, pfBlockerNG, OpenVPN, Tailscale, PIA
+Networking & Security: pfSense, OpenVPN, Tailscale
 
 Directory Services & OS: Windows Server (Active Directory, DNS, DHCP)
 
